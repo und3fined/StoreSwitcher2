@@ -1,4 +1,4 @@
-Package: com.subdiox.storeswitcher2
+Package: dev.und3fy.storeswitcher2
 Name: StoreSwitcher 2
 Depends: firmware (>= 11), mobilesubstrate
 Version: 1.0.1
