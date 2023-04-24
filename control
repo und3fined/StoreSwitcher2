@@ -2,8 +2,8 @@ Package: dev.und3fy.storeswitcher2
 Name: StoreSwitcher 2
 Depends: firmware (>= 11), mobilesubstrate
 Version: 1.0.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Description: Adds a button to switch account in App Store account page on iOS 11+.
-Maintainer: subdiox
+Maintainer: und3fined
 Author: subdiox
 Section: Tweaks
