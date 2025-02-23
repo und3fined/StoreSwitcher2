@@ -174,6 +174,7 @@
     @"143502": @"Venezuela (VE)",
     @"143471": @"Vietnam (VN)",
     @"143571": @"Yemen (YE)"
+    @"143579": @"Zimbabwe (ZW)"
   };
   NSString *countryCode = countryDict[internalCountryCode];
   if (!countryCode) {
